@@ -85,5 +85,6 @@ CCTV-4美洲,http://192.168.2.1:58888/udp/225.1.5.32:1343
 北屋东摄像机,rtsp://admin:040380wang@192.168.2.33:554/stream1
 北屋西摄像机,rtsp://admin:040380wang@192.168.2.30:554/stream1
 南屋的摄像机,rtsp://admin:040380wang@192.168.2.34:554/stream1
+北屋后摄像机,rtsp://admin:040380wang@192.168.2.37:554/stream1
 俊强家摄像机,rtsp://admin:040380wang@192.168.2.35:554/stream1
 高勇家摄像机,rtsp://admin:040380wang@192.168.2.36:554/cam/realmonitor?channel=1&subtype=0
